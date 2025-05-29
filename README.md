@@ -62,7 +62,6 @@ A comprehensive analysis of the automobile market using Power BI to provide acti
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png"/><br>Power BI</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/><br>Excel</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/dax.png"/><br>DAX</td>
   </tr>
 </table>
 
