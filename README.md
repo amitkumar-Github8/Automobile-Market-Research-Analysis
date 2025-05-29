@@ -4,11 +4,7 @@
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
 <div align="center">
-  <picture>
-    <source srcset="Dashboards/dashboard_preview.webp" type="image/webp">
-    <source srcset="Dashboards/dashboard_preview.png" type="image/png">
-    <img src="Dashboards/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </picture>
+  <img src="./Dashboards/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <br>
   <em>Power BI Dashboard Preview</em>
 </div>
