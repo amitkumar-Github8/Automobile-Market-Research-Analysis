@@ -1,7 +1,11 @@
 # 🚗 Automobile Market Research Analysis
 
+<div align="center">
+  
 [![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+
+</div>
 
 <div align="center">
   <img src="./Dashboards/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
