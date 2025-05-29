@@ -9,7 +9,8 @@
 
 <div align="center">
   <picture>
-    <img src="Dashboards/automobile_dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <source srcset="./Dashboards/automobile_dashboard.png" type="image/png">
+    <img src="./Dashboards/automobile_dashboard.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </picture>
   <br>
   <em>Power BI Dashboard Preview</em>
@@ -119,6 +120,3 @@ git clone https://github.com/yourusername/Automobile-Market-Research-Analysis.gi
 </p>
 
 ---
-<div align="center">
-  <i>Last Updated: May 2025</i>
-</div>
