@@ -8,6 +8,9 @@
   <img src="Dashboards/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
 </div>
 
+## 📊 Project Overview
+A comprehensive analysis of the automobile market using Power BI to provide actionable insights for stakeholders. This project visualizes and analyzes key market trends, consumer behavior, and vehicle performance metrics to facilitate data-driven decision-making.
+
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
 - [Objectives](#-objectives)
@@ -20,9 +23,6 @@
 - [Data Dictionary](#-data-dictionary)
 - [Contributors](#-contributors)
 - [Contact](#-contact)
-
-## 📊 Project Overview
-A comprehensive analysis of the automobile market using Power BI to provide actionable insights for stakeholders. This project visualizes and analyzes key market trends, consumer behavior, and vehicle performance metrics to facilitate data-driven decision-making.
 
 <details>
 <summary><b>🎯 Objectives</b></summary>
