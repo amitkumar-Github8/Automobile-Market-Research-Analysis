@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="./Dashboards/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="./Dashboards/automobile_dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <br>
   <em>Power BI Dashboard Preview</em>
 </div>
