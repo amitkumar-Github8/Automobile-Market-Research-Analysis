@@ -2,10 +2,15 @@
 
 [![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Automobile-Market-Research-Analysis)](https://github.com/yourusername/Automobile-Market-Research-Analysis/commits/main)
 
 <div align="center">
-  <img src="Dashboards/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
+  <picture>
+    <source srcset="Dashboards/dashboard_preview.webp" type="image/webp">
+    <source srcset="Dashboards/dashboard_preview.png" type="image/png">
+    <img src="Dashboards/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800" style="max-width: 100%; height: auto; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </picture>
+  <br>
+  <em>Power BI Dashboard Preview</em>
 </div>
 
 ## 📊 Project Overview
