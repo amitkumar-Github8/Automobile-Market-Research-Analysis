@@ -4,6 +4,10 @@ Welcome! This project leverages **Power BI** to analyze and visualize the automo
 
 ---
 
+![Dashboard Screenshot](Dashboards/PowerBI%20Dashboard.png)
+
+---
+
 ## 🚀 Highlights
 
 - **Sales Analysis:** Track sales by month, region, and brand.
